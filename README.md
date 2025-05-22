@@ -1,2 +1,2 @@
 - Simpan folder dengan ketentuan nama: The name should be all lowercase, with underscores to separate words, "just_like_this".
-- untuk penggunaan mysql phpmyadmin, simpan di folder C:\xampp\htdocs
+- Untuk penggunaan mysql phpmyadmin, simpan di folder C:\xampp\htdocs
